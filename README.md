@@ -1,9 +1,5 @@
 # Markets-Basket-Analysis-and-Recommendation-Systems
 
-**Market Basket Analysis and**
-
-**Recommendation Systems**
-
 ### Abstract
 
 In recent times, data, especially data mining has played an crucial role in transforming various
